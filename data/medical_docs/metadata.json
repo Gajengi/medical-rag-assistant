@@ -1,0 +1,266 @@
+[
+  {
+    "topic": "diabetes",
+    "title": "Diabetes Basics | Diabetes | CDC",
+    "source_url": "https://www.cdc.gov/diabetes/about/index.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\diabetes\\cdc_gov_diabetes_about_index_html.txt",
+    "source_domain": "www.cdc.gov",
+    "downloaded_at": "2026-06-29T03:23:43.044075+00:00"
+  },
+  {
+    "topic": "diabetes",
+    "title": "Symptoms of Diabetes | Diabetes | CDC",
+    "source_url": "https://www.cdc.gov/diabetes/signs-symptoms/index.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\diabetes\\cdc_gov_diabetes_signs-symptoms_index_html.txt",
+    "source_domain": "www.cdc.gov",
+    "downloaded_at": "2026-06-29T03:23:43.880514+00:00"
+  },
+  {
+    "topic": "diabetes",
+    "title": "Diabetes",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\diabetes\\who_int_news-room_fact-sheets_detail_diabetes.txt",
+    "source_domain": "www.who.int",
+    "downloaded_at": "2026-06-29T03:23:45.044727+00:00"
+  },
+  {
+    "topic": "diabetes",
+    "title": "Diabetes | Type 1 Diabetes | Type 2 Diabetes | MedlinePlus",
+    "source_url": "https://medlineplus.gov/diabetes.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\diabetes\\medlineplus_gov_diabetes_html.txt",
+    "source_domain": "medlineplus.gov",
+    "downloaded_at": "2026-06-29T03:23:46.013103+00:00"
+  },
+  {
+    "topic": "diabetes",
+    "title": "A1C Test for Diabetes and Prediabetes | Diabetes | CDC",
+    "source_url": "https://www.cdc.gov/diabetes/diabetes-testing/prediabetes-a1c-test.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\diabetes\\cdc_gov_diabetes_diabetes-testing_prediabetes-a1c-test_html.txt",
+    "source_domain": "www.cdc.gov",
+    "downloaded_at": "2026-06-29T03:23:46.861914+00:00"
+  },
+  {
+    "topic": "diabetes",
+    "title": "Hemoglobin A1C (HbA1c) Test: MedlinePlus Medical Test",
+    "source_url": "https://medlineplus.gov/lab-tests/hemoglobin-a1c-hba1c-test/",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\diabetes\\medlineplus_gov_lab-tests_hemoglobin-a1c-hba1c-test.txt",
+    "source_domain": "medlineplus.gov",
+    "downloaded_at": "2026-06-29T03:23:47.635109+00:00"
+  },
+  {
+    "topic": "diabetes",
+    "title": "The A1C Test & Diabetes - NIDDK",
+    "source_url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/a1c-test",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\diabetes\\niddk_nih_gov_health-information_diagnostic-tests_a1c-test.txt",
+    "source_domain": "www.niddk.nih.gov",
+    "downloaded_at": "2026-06-29T03:23:48.539850+00:00"
+  },
+  {
+    "topic": "diabetes",
+    "title": "Understanding A1C Test | ADA",
+    "source_url": "https://diabetes.org/about-diabetes/a1c",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\diabetes\\diabetes_org_about-diabetes_a1c.txt",
+    "source_domain": "diabetes.org",
+    "downloaded_at": "2026-06-29T03:23:49.416861+00:00"
+  },
+  {
+    "topic": "diabetes",
+    "title": "A1C: What It Is, Test, Levels & Chart",
+    "source_url": "https://my.clevelandclinic.org/health/diagnostics/9731-a1c",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\diabetes\\my_clevelandclinic_org_health_diagnostics_9731-a1c.txt",
+    "source_domain": "my.clevelandclinic.org",
+    "downloaded_at": "2026-06-29T03:23:50.414525+00:00"
+  },
+  {
+    "topic": "high_blood_pressure",
+    "title": "About High Blood Pressure | High Blood Pressure | CDC",
+    "source_url": "https://www.cdc.gov/high-blood-pressure/about/index.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\high_blood_pressure\\cdc_gov_high-blood-pressure_about_index_html.txt",
+    "source_domain": "www.cdc.gov",
+    "downloaded_at": "2026-06-29T03:23:51.262264+00:00"
+  },
+  {
+    "topic": "high_blood_pressure",
+    "title": "Hypertension",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/hypertension",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\high_blood_pressure\\who_int_news-room_fact-sheets_detail_hypertension.txt",
+    "source_domain": "www.who.int",
+    "downloaded_at": "2026-06-29T03:23:52.133998+00:00"
+  },
+  {
+    "topic": "high_blood_pressure",
+    "title": "High Blood Pressure | Hypertension | MedlinePlus",
+    "source_url": "https://medlineplus.gov/highbloodpressure.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\high_blood_pressure\\medlineplus_gov_highbloodpressure_html.txt",
+    "source_domain": "medlineplus.gov",
+    "downloaded_at": "2026-06-29T03:23:52.969498+00:00"
+  },
+  {
+    "topic": "cholesterol",
+    "title": "About Cholesterol | Cholesterol | CDC",
+    "source_url": "https://www.cdc.gov/cholesterol/about/index.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\cholesterol\\cdc_gov_cholesterol_about_index_html.txt",
+    "source_domain": "www.cdc.gov",
+    "downloaded_at": "2026-06-29T03:23:53.788276+00:00"
+  },
+  {
+    "topic": "cholesterol",
+    "title": "Cholesterol | MedlinePlus",
+    "source_url": "https://medlineplus.gov/cholesterol.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\cholesterol\\medlineplus_gov_cholesterol_html.txt",
+    "source_domain": "medlineplus.gov",
+    "downloaded_at": "2026-06-29T03:23:54.665500+00:00"
+  },
+  {
+    "topic": "asthma",
+    "title": "About Asthma | Asthma | CDC",
+    "source_url": "https://www.cdc.gov/asthma/about/index.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\asthma\\cdc_gov_asthma_about_index_html.txt",
+    "source_domain": "www.cdc.gov",
+    "downloaded_at": "2026-06-29T03:23:55.503520+00:00"
+  },
+  {
+    "topic": "asthma",
+    "title": "Asthma",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/asthma",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\asthma\\who_int_news-room_fact-sheets_detail_asthma.txt",
+    "source_domain": "www.who.int",
+    "downloaded_at": "2026-06-29T03:23:56.418895+00:00"
+  },
+  {
+    "topic": "asthma",
+    "title": "Asthma | Asthma Symptoms | Asthma Attack | MedlinePlus",
+    "source_url": "https://medlineplus.gov/asthma.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\asthma\\medlineplus_gov_asthma_html.txt",
+    "source_domain": "medlineplus.gov",
+    "downloaded_at": "2026-06-29T03:23:57.296477+00:00"
+  },
+  {
+    "topic": "flu",
+    "title": "About Influenza | Influenza (Flu) | CDC",
+    "source_url": "https://www.cdc.gov/flu/about/index.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\flu\\cdc_gov_flu_about_index_html.txt",
+    "source_domain": "www.cdc.gov",
+    "downloaded_at": "2026-06-29T03:23:58.124337+00:00"
+  },
+  {
+    "topic": "flu",
+    "title": "Influenza (seasonal)",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/influenza-%28seasonal%29",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\flu\\who_int_news-room_fact-sheets_detail_influenza-_28seasonal_29.txt",
+    "source_domain": "www.who.int",
+    "downloaded_at": "2026-06-29T03:23:58.950130+00:00"
+  },
+  {
+    "topic": "flu",
+    "title": "Flu | Flu Symptoms | Stomach Flu | Influenza | MedlinePlus",
+    "source_url": "https://medlineplus.gov/flu.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\flu\\medlineplus_gov_flu_html.txt",
+    "source_domain": "medlineplus.gov",
+    "downloaded_at": "2026-06-29T03:23:59.785621+00:00"
+  },
+  {
+    "topic": "covid19",
+    "title": "About COVID-19 | Covid | CDC",
+    "source_url": "https://www.cdc.gov/covid/about/index.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\covid19\\cdc_gov_covid_about_index_html.txt",
+    "source_domain": "www.cdc.gov",
+    "downloaded_at": "2026-06-29T03:24:00.636412+00:00"
+  },
+  {
+    "topic": "covid19",
+    "title": "Coronavirus disease (COVID-19)",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/coronavirus-disease-(covid-19)",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\covid19\\who_int_news-room_fact-sheets_detail_coronavirus-disease-_covid-19_.txt",
+    "source_domain": "www.who.int",
+    "downloaded_at": "2026-06-29T03:24:01.412256+00:00"
+  },
+  {
+    "topic": "covid19",
+    "title": "COVID-19 | Coronavirus Disease 2019 | MedlinePlus",
+    "source_url": "https://medlineplus.gov/covid19coronavirusdisease2019.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\covid19\\medlineplus_gov_covid19coronavirusdisease2019_html.txt",
+    "source_domain": "medlineplus.gov",
+    "downloaded_at": "2026-06-29T03:24:02.210206+00:00"
+  },
+  {
+    "topic": "dengue",
+    "title": "About Dengue | Dengue | CDC",
+    "source_url": "https://www.cdc.gov/dengue/about/index.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\dengue\\cdc_gov_dengue_about_index_html.txt",
+    "source_domain": "www.cdc.gov",
+    "downloaded_at": "2026-06-29T03:24:03.064613+00:00"
+  },
+  {
+    "topic": "dengue",
+    "title": "Dengue",
+    "source_url": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\dengue\\who_int_news-room_fact-sheets_detail_dengue-and-severe-dengue.txt",
+    "source_domain": "www.who.int",
+    "downloaded_at": "2026-06-29T03:24:03.905230+00:00"
+  },
+  {
+    "topic": "dengue",
+    "title": "Dengue: MedlinePlus",
+    "source_url": "https://medlineplus.gov/dengue.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\dengue\\medlineplus_gov_dengue_html.txt",
+    "source_domain": "medlineplus.gov",
+    "downloaded_at": "2026-06-29T03:24:04.724208+00:00"
+  },
+  {
+    "topic": "migraine",
+    "title": "Migraine | MedlinePlus",
+    "source_url": "https://medlineplus.gov/migraine.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\migraine\\medlineplus_gov_migraine_html.txt",
+    "source_domain": "medlineplus.gov",
+    "downloaded_at": "2026-06-29T03:24:05.532642+00:00"
+  },
+  {
+    "topic": "migraine",
+    "title": "Headaches: What You Need To Know  | NCCIH",
+    "source_url": "https://www.nccih.nih.gov/health/headaches-what-you-need-to-know",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\migraine\\nccih_nih_gov_health_headaches-what-you-need-to-know.txt",
+    "source_domain": "www.nccih.nih.gov",
+    "downloaded_at": "2026-06-29T03:24:06.818900+00:00"
+  },
+  {
+    "topic": "food_poisoning",
+    "title": "Food Safety Basics | Food Safety | CDC",
+    "source_url": "https://www.cdc.gov/food-safety/about/index.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\food_poisoning\\cdc_gov_food-safety_about_index_html.txt",
+    "source_domain": "www.cdc.gov",
+    "downloaded_at": "2026-06-29T03:24:07.666278+00:00"
+  },
+  {
+    "topic": "food_poisoning",
+    "title": "Food Poisoning | Foodborne Illness | MedlinePlus",
+    "source_url": "https://medlineplus.gov/foodborneillness.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\food_poisoning\\medlineplus_gov_foodborneillness_html.txt",
+    "source_domain": "medlineplus.gov",
+    "downloaded_at": "2026-06-29T03:24:08.592905+00:00"
+  },
+  {
+    "topic": "eczema",
+    "title": "Eczema | Dermatitis | Atopic Dermatitis | MedlinePlus",
+    "source_url": "https://medlineplus.gov/eczema.html",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\eczema\\medlineplus_gov_eczema_html.txt",
+    "source_domain": "medlineplus.gov",
+    "downloaded_at": "2026-06-29T03:24:09.415118+00:00"
+  },
+  {
+    "topic": "eczema",
+    "title": "Atopic Dermatitis\u2013Eczema Symptoms & Causes | NIAMS",
+    "source_url": "https://www.niams.nih.gov/health-topics/atopic-dermatitis",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\eczema\\niams_nih_gov_health-topics_atopic-dermatitis.txt",
+    "source_domain": "www.niams.nih.gov",
+    "downloaded_at": "2026-06-29T03:24:10.257897+00:00"
+  },
+  {
+    "topic": "eczema",
+    "title": "Eczema (Atopic Dermatitis) | NIAID: National Institute of Allergy and Infectious Diseases",
+    "source_url": "https://www.niaid.nih.gov/diseases-conditions/eczema-atopic-dermatitis",
+    "file_path": "C:\\Users\\Manid\\medical-rag-assistant\\data\\medical_docs\\eczema\\niaid_nih_gov_diseases-conditions_eczema-atopic-dermatitis.txt",
+    "source_domain": "www.niaid.nih.gov",
+    "downloaded_at": "2026-06-29T03:24:11.245803+00:00"
+  }
+]

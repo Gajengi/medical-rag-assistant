@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Vector Database
+chroma_db/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
