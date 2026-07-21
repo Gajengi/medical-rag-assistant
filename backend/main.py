@@ -36,8 +36,7 @@ class QuestionRequest(BaseModel):
 def get_embedding(text: str):
     response = requests.post(
         OLLAMA_EMBED_URL,
-        json={
-            "model": EMBED_MODEL,
+        json={            "model": EMBED_MODEL,
             "prompt": text
         },
         timeout=120
@@ -46,7 +45,7 @@ def get_embedding(text: str):
     return response.json()["embedding"]
 
 
-def retrieve_chunks(question: str, top_k: int = 4):
+def retrieve_chunks(question: str, top_k: int = 3):
     query_embedding = get_embedding(question)
 
     results = collection.query(
@@ -131,7 +130,7 @@ Now provide a complete answer.
             "prompt": prompt,
             "stream": False,
             "options": {
-                "num_predict": 1000,
+                "num_predict": 400,
                 "temperature": 0.2
             }
         },
@@ -145,7 +144,6 @@ Now provide a complete answer.
 @app.get("/")
 def home():
     return {"message": "Medical Knowledge Assistant API is running"}
-
 
 @app.post("/ask")
 def ask_question(request: QuestionRequest):
