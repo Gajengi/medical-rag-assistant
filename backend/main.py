@@ -143,7 +143,7 @@ Now provide a complete answer.
 
 @app.get("/")
 def home():
-    return {"message": "Medical Knowledge Assistant API is running"}
+    return {"message": "Medical Knowledge Assistant API is runnning"}
 
 @app.post("/ask")
 def ask_question(request: QuestionRequest):
