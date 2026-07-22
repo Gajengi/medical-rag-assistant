@@ -613,7 +613,7 @@ def build_index() -> None:
     """
 
     print("=" * 60)
-    print("Medical RAG S3 Indexing Pipeline")
+    print("Medical RAG S3 bucket Indexing Pipeline")
     print("=" * 60)
 
     verify_s3_access()
