@@ -140,7 +140,7 @@ Now provide a complete answer.
     response.raise_for_status()
     return response.json()["response"]
 
-
+#made changes in return
 @app.get("/")
 def home():
     return {"message": "Medical Knowledge Asssistant API is runnning"}
